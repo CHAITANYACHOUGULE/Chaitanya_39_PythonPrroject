@@ -1,0 +1,8 @@
+x=[1,2,3,4,5,6,7,8,9,10]
+for i in x:
+    print(i)
+
+print("\n")
+for i in range(0,5):
+    print(i)
+    i=i+1;
